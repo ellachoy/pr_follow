@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState} from 'react';
 import AnimatedCursor from "react-animated-cursor";
 import image from "./img/target.png";
 import './App.css';
@@ -26,8 +26,7 @@ export default function App() {
           outerStyle={{
             border: '2px solid var(--cursor-color)'
           }}
-
-        />
+        /> 
     </div>  
   );
 }
