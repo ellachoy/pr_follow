@@ -1,15 +1,22 @@
+html {
+  --cursor-color: white;
+}
+
 .container {
   width: 100vw;
   height: 100vh;
-  background-color: beige;
+  background-color: black;
 }
 
 .pointer {
-  position: absolute;
-  background-color: crimson;
+  width: 5rem;
+  height: 5rem;
+  border: 5px double red;
   border-radius: 50%;
-  width: 30px;
-  height: 30px;
-  left: -15px;
-  top: -15px;
+  position: absolute;
+  z-index: 1000;
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+  transition: all 0.1s ease;
+  transition-property: transform;
 }
