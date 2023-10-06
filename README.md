@@ -11,6 +11,9 @@ mal zum Spass baue ich gerne solchen Projekt
 -react-router-dom (router)
 -react-animated-cursor
 
+### weiteren Plan
+-Einbinden Mp3 Musik (Sound)
+
 
 
 
