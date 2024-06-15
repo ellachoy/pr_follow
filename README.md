@@ -2,10 +2,6 @@
 
 Link (https://shiny-pegasus-1083d5.netlify.app).
 
-## Ziel
-
-mal zum Spass baue ich gerne solchen Projekt
-
 ### Skills
 -create-react-app (react)
 -react-router-dom (router)
